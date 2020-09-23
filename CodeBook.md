@@ -1,15 +1,15 @@
-# CodeBook
+# **CodeBook**
 
 The final summary tidy dataset "tidydata.txt" contains the average of each variable for each activity and each subject from the Human Activity Recognition Using Smartphones Data Set
 
-**Description**
+# **Description**
 Data in dataset contains 180 rows and 68 columns for
 
 •mean(): Mean value
 
 •std(): Standard deviation
 
- **Identifiers**
+# Identifiers
 The base data is grouped by the following values to build mean value and the standard deviation std()
 
 •subject - The ID of the test subject
